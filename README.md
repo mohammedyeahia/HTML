@@ -26,4 +26,4 @@ _this is italic text_
 2. rahim
 3. jamal
 
-[Mohammed Yeahia](images/yeahia.jpg)
+[Mohammed Yeahia](images/yeahia.png)
