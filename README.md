@@ -17,3 +17,11 @@ _this is italic text_
 ```show html code
 <h1>hello world</h1>
 ```
+
+- mango
+- banana
+- papaya
+
+1. karim
+2. rahim
+3. jamal
