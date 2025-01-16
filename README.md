@@ -27,3 +27,11 @@ _this is italic text_
 3. jamal
 
 [Mohammed Yeahia](images/yeahia.png)
+
+add table
+
+| Name | Age |
+|------|-----|
+| Yeahia | 54 |
+| Arefin | 45 |
+| Mehedi | 44 |
