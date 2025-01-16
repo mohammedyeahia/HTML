@@ -13,3 +13,7 @@ this is normal text
 **this is bold text**
 
 _this is italic text_
+
+```show html code
+<h1>hello world</h1>
+```
