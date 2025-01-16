@@ -7,3 +7,9 @@ markdown code
 ## heading 2
 
 ### heading 3
+
+this is normal text
+
+**this is bold text**
+
+_this is italic text_
