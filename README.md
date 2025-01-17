@@ -26,7 +26,7 @@ _this is italic text_
 2. rahim
 3. jamal
 
-[Mohammed Yeahia](./images/yeahia.png)
+![Mohammed Yeahia](./images/yeahia.png)
 
 add table
 
